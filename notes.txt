@@ -1,0 +1,10 @@
+
+docker installed successfully
+docker-machine installed successfully
+docker-compose installed successfully however syntax of tutorials dockerfile is out of date
+solution:
+
+	installed docker-compose as a python package inside the created virtual env via
+	
+	(env)$ pip install docker-compose
+
