@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"form\tstatement"
+			],
+			[
+				"ren",
+				"render_to_response\tfunction"
+			],
+			[
+				"Nam",
+				"NameForm\tclass"
+			],
+			[
+				"get",
+				"get_name\tfunction"
+			],
+			[
+				"que",
+				"question\tstatement"
+			],
+			[
+				"qu",
+				"question\tstatement"
+			],
+			[
+				"tim",
+				"timezone\tmodule"
+			],
+			[
+				"max",
+				"max_digits\tparam"
+			],
+			[
+				"model",
+				"Model\tclass"
+			],
+			[
+				"date",
+				"DateField\tclass"
+			],
+			[
+				"Httprespo",
+				"HttpResponseForbidden\tclass"
+			],
+			[
+				"Htt",
+				"HttpResponseNotFound\tclass"
+			],
+			[
+				"python",
+				"python3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 252.0,
+		"last_filter": "projec",
+		"selected_items":
+		[
+			[
+				"projec",
+				"Project: Edit"
+			],
+			[
+				"remo pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"edit pro",
+				"Project: Edit Project"
+			],
+			[
+				"toggle ena",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"bh cont",
+				"BracketHighlighter: Select Bracket Content with Brackets"
+			],
+			[
+				"bh righ",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"bh left",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"py\t",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rawad/projects/flask-microservices-users"
+	],
+	"file_history":
+	[
+		"/home/rawad/projects/flask-microservices-users/project/__init__.py",
+		"/home/rawad/projects/flask-microservices-users/react.sublime-project",
+		"/home/rawad/projects/flask-microservices-users/project/manage.py",
+		"/home/rawad/projects/flask-microservices-users/initialize_project.sh",
+		"/home/rawad/scripts/projects/create_react_test.sh",
+		"/home/rawad/projects/mysite/polls/templates/polls/detail.html",
+		"/home/rawad/projects/mysite/polls/templates/polls/your_name.html",
+		"/home/rawad/projects/django_test.sublime-project",
+		"/home/rawad/projects/mysite/polls/forms.py",
+		"/home/rawad/projects/mysite/polls/views.py",
+		"/home/rawad/projects/mysite/polls/urls.py",
+		"/home/rawad/projects/mysite/polls/static/polls/style.css",
+		"/home/rawad/projects/create_project.sh",
+		"/home/rawad/projects/env/lib/python3.5/site-packages/django/shortcuts.py",
+		"/home/rawad/projects/mysite/polls/templates/polls/index.html",
+		"/home/rawad/projects/mysite/polls/templates/polls/question_detail.html",
+		"/home/rawad/projects/mysite/polls/templates/polls/thanks.html",
+		"/home/rawad/projects/mysite/polls/templates/polls/results.html",
+		"/home/rawad/projects/mysite/mysite/urls.py",
+		"/home/rawad/projects/mysite/polls/templates/polls/name.html",
+		"/home/rawad/projects/mysite/mysite/settings.py",
+		"/home/rawad/projects/mysite/polls/tests.py",
+		"/home/rawad/projects/mysite/templates/admin/index.html",
+		"/home/rawad/projects/mysite/polls/models.py",
+		"/home/rawad/projects/mysite/polls/admin.py",
+		"/home/rawad/projects/mysite/polls/templates/polls/admin/base_site.html",
+		"/home/rawad/projects/env/lib/python3.5/site-packages/django/contrib/admin/templates/admin/base_site.html",
+		"/home/rawad/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/rawad/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/rawad/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/home/rawad/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+		"/home/rawad/projects/mysite/polls/templates/polls/detail",
+		"/home/rawad/projects/mysite/polls/drafts/models.py",
+		"/home/rawad/projects/env/lib/python3.5/site-packages/django/http/response.py",
+		"/home/rawad/projects/commands.txt",
+		"/home/rawad/projects/helloworld/env/lib/python3.5/_bootlocale.py",
+		"/home/rawad/projects/recruitment/Vagrantfile",
+		"/home/rawad/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/rawad/.config/sublime-text-3/Packages/BracketGuard/Default (Linux).sublime-keymap",
+		"/home/rawad/.config/sublime-text-3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/home/rawad/projects/django_test/test_01/pencil/views.py",
+		"/home/rawad/projects/django_test/test_01/test_01/__init__.py",
+		"/home/rawad/projects/django_test/test_01/pencil/models.py",
+		"/home/rawad/projects/django_test/test_01/pencil/urls.py",
+		"/home/rawad/projects/django_test/test_01/pencil/admin.py",
+		"/home/rawad/projects/django_test/test_01/test_01/urls.py",
+		"/home/rawad/projects/django_test/test_01/test_01/settings.py",
+		"/home/rawad/projects/django_test/test_01/manage.py",
+		"/usr/share/applications/sublime_text.desktop",
+		"/home/rawad/.local/share/applications/sublime_text.desktop",
+		"/home/rawad/.local/share/applications/_sublime_text.desktop",
+		"/home/rawad/projects/django_test/test_01/pencil/apps.py",
+		"/home/rawad/projects/django_test/test_01/pencil/tests.py",
+		"/home/rawad/projects/django_test/env/lib/python3.5/site-packages/django/contrib/admin/__init__.py",
+		"/home/rawad/projects/django_test/test_01/pencil/__init__.py",
+		"/home/rawad/projects/test_01/requirements.txt",
+		"/home/rawad/projects/django_test/classes.py",
+		"/home/rawad/projects/django_test/test_django/test_django/settings.py",
+		"/home/rawad/projects/django_test/test_django/test_django/urls.py",
+		"/home/rawad/projects/django_test/test_django/test_django/wsgi.py",
+		"/home/rawad/projects/django_test/test_django/manage.py",
+		"/home/rawad/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/rawad/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$ ",
+			"cd",
+			"recruitment",
+			"testing",
+			"ls",
+			"recruitment",
+			"ls",
+			"s",
+			"$",
+			"desktop",
+			"desktop:",
+			"username",
+			"b>",
+			"selected",
+			"#",
+			">>>",
+			"#",
+			"django",
+			"Nation",
+			",",
+			"\n<",
+			"url",
+			"polls",
+			"ex",
+			"url",
+			"li",
+			"h1",
+			"tex",
+			"class",
+			"def",
+			"sqlite",
+			"-r",
+			"3.",
+			"virt",
+			"super",
+			"up",
+			"polls",
+			"urls",
+			"poll",
+			"decimal",
+			"CharField",
+			"owner",
+			"here",
+			"\n\t",
+			"system",
+			"import",
+			"pep"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/rez-policies-it.wiki/rez_policies.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
