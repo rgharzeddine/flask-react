@@ -13,9 +13,12 @@ services:
     healthcheck:
       test: exit 0
 
+
   users-service:
     container_name: users-service
     build: .
+    volumes:
+      - '.:/usr/src/app'
     ports:
       - 5001:5000 # expose ports - HOST:CONTAINER
     environment:

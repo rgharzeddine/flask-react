@@ -1,7 +1,6 @@
 docker-compose up -d 
     did not started
-    docker had problems mounting using ADD
+    docker had problems mounting using volume
 solution
-    used commands
-        docker rm users-service
-        docker run -d -p 5001:5000 --name users-service -e APP_SETTINGS=project.config.DevelopmentConfig flaskmicroservicesusers_users-service
+    use sudo to run docker commands
+    adding to docker group did not fix problem
