@@ -1,10 +1,7 @@
-
-docker installed successfully
-docker-machine installed successfully
-docker-compose installed successfully however syntax of tutorials dockerfile is out of date
-solution:
-
-	installed docker-compose as a python package inside the created virtual env via
-	
-	(env)$ pip install docker-compose
-
+docker-compose up -d 
+    did not started
+    docker had problems mounting using ADD
+solution
+    used commands
+        docker rm users-service
+        docker run -d -p 5001:5000 --name users-service -e APP_SETTINGS=project.config.DevelopmentConfig flaskmicroservicesusers_users-service

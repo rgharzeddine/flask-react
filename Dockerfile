@@ -13,9 +13,5 @@ RUN pip install -r requirements.txt
 # add app
 ADD . /usr/src/app
 
-# CMD pwd
-# CMD ls
-
 # run server
 CMD python ./manage.py runserver -h 0.0.0.0
-
