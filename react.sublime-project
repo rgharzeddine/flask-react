@@ -24,5 +24,17 @@
 			],
 			"path": "~/Personal/Notes"
 		}
-	]
+	],
+
+	"settings":
+	{
+		"auto_python_builder_enabled": false,
+		"extra_paths":
+			[
+			],
+		"python_interpreter": "/home/rawad/projects/flask-microservices-users/env/bin/python3",
+		// "python_interpreter": "~/projects/flas",
+		// "python_interpreter": "/usr/bin/python3",
+		// "python_interpreter": "/usr/bin/python"
+	}
 }

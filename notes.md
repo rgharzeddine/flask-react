@@ -15,4 +15,11 @@ docker had problems mounting volume
 ------------------------------------------------------
 
 **Problem**
+
+**test_add_user()** test failed
+
 **Solution**
+
+* change posted data useruser to username
+
+------------------------------------------------------
