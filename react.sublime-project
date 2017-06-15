@@ -7,34 +7,5 @@
 			"selector": "source.python",
 			"shell_cmd": "\"python\" -u \"$file\""
 		}
-	],
-	"folders":
-	[
-		{
-			"path": "."
-		},
-		{
-			"folder_exclude_patterns":
-			[
-				"**/**",
-			],
-			"file_include_patterns":
-			[
-				"TOKNOW.txt"
-			],
-			"path": "~/Personal/Notes"
-		}
-	],
-
-	"settings":
-	{
-		"auto_python_builder_enabled": false,
-		"extra_paths":
-			[
-			],
-		"python_interpreter": "/home/rawad/projects/flask-microservices-users/env/bin/python3",
-		// "python_interpreter": "~/projects/flas",
-		// "python_interpreter": "/usr/bin/python3",
-		// "python_interpreter": "/usr/bin/python"
-	}
+	]
 }
