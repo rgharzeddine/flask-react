@@ -1,6 +1,0 @@
-docker-compose up -d 
-    did not started
-    docker had problems mounting using volume
-solution
-    use sudo to run docker commands
-    adding to docker group did not fix problem

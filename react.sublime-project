@@ -12,6 +12,17 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"**/**",
+			],
+			"file_include_patterns":
+			[
+				"TOKNOW.txt"
+			],
+			"path": "~/Personal/Notes"
 		}
 	]
 }
