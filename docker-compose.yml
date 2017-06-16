@@ -4,7 +4,8 @@ services:
 
   users-db:
     container_name: users-db
-    build: ./project/db
+    # build: ./project/db
+    build: https://github.com/realpython/flask-microservices-users.git#master:project/db
     ports:
         - 5435:5432  # expose ports - HOST:CONTAINER
     environment:
@@ -16,9 +17,10 @@ services:
   users-service:
     container_name: users-service
     command: gunicorn -b 0.0.0.0:5000 manage:app
-    build: .
-    volumes:
-      - '.:/usr/src/app'
+    # build: .
+    build: https://github.com/realpython/flask-microservices-users.git
+    # volumes:
+    #   - '.:/usr/src/app'
     expose:
       - 5000
     # ports:
@@ -35,7 +37,7 @@ services:
 
   nginx:
     container_name: nginx
-    build: ./nginx/
+    build: ./flask-microservices-main/nginx
     restart: always
     ports:
       - 80:80

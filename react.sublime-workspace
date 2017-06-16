@@ -4,12 +4,152 @@
 		"selected_items":
 		[
 			[
-				"ad",
-				"add_user"
+				"admi",
+				"admin_user\tstatement"
 			],
 			[
-				"doc",
-				"docker-compose"
+				"user",
+				"UserPassesTestMixin\tclass"
+			],
+			[
+				"appli",
+				"ApplicantUpdateForm\tclass"
+			],
+			[
+				"appl",
+				"applicants"
+			],
+			[
+				"templ",
+				"template_name\tstatement"
+			],
+			[
+				"admin",
+				"admin_group\tstatement"
+			],
+			[
+				"adm",
+				"admin_group\tstatement"
+			],
+			[
+				"super",
+				"super_user_name\tstatement"
+			],
+			[
+				"re",
+				"recruitment/\tDir"
+			],
+			[
+				"recui",
+				"recruitment_settings\timport"
+			],
+			[
+				"ru",
+				"run_env.sh\tFile"
+			],
+			[
+				"te",
+				"tabindex\tAttr"
+			],
+			[
+				"auth",
+				"auth_models\timport"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"lo",
+				"login\tfunction"
+			],
+			[
+				"log",
+				"logout\tfunction"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"fie",
+				"field\tstatement"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"succ",
+				"success_url\tstatement"
+			],
+			[
+				"fom",
+				"forms\tmodule"
+			],
+			[
+				"Appli",
+				"applicant"
+			],
+			[
+				"cv",
+				"CV_ROOT"
+			],
+			[
+				"medi",
+				"MEDIA_URL\tstatement"
+			],
+			[
+				"Medi",
+				"MEDIA_URL\tstatement"
+			],
+			[
+				"media",
+				"MEDIA_ROOT\tstatement"
+			],
+			[
+				"CV_p",
+				"CV_PATH\tstatement"
+			],
+			[
+				"Ap",
+				"ApplicantForm\tclass"
+			],
+			[
+				"ap",
+				"Applicant_init\tfunction"
+			],
+			[
+				"app",
+				"Applicant"
+			],
+			[
+				"vali",
+				"ValidationError\tclass"
+			],
+			[
+				"va",
+				"validators"
+			],
+			[
+				"MEI",
+				"MEDIA_URL\tstatement"
+			],
+			[
+				"up",
+				"upload_file\tfunction"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"name",
+				"namespace\tparam"
+			],
+			[
+				"ur",
+				"urls"
 			],
 			[
 				"for",
@@ -68,50 +208,6 @@
 	"buffers":
 	[
 		{
-			"file": "project/tests/base.py",
-			"settings":
-			{
-				"buffer_size": 380,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "project/api/views.py",
-			"settings":
-			{
-				"buffer_size": 3420,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "project/tests/test__user.py",
-			"settings":
-			{
-				"buffer_size": 7294,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "notes.md",
-			"settings":
-			{
-				"buffer_size": 424,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "project/api/models.py",
-			"settings":
-			{
-				"buffer_size": 548,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "manage.py",
 			"settings":
 			{
@@ -128,29 +224,25 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "edi",
+		"height": 372.0,
+		"last_filter": "mark",
 		"selected_items":
 		[
 			[
-				"edi",
-				"Project: Edit Project"
-			],
-			[
-				"edit pr",
-				"Project: Edit Project"
-			],
-			[
-				"mar",
+				"mark",
 				"Markdown Preview: Preview in Browser"
 			],
 			[
-				"edit",
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"edit pro",
 				"Project: Edit Project"
 			],
 			[
-				"typr",
-				"Typewriter: Typing Mode (Toggle)"
+				"add fol",
+				"Project: Add Folder"
 			],
 			[
 				"install",
@@ -161,40 +253,32 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"browser",
-				"Markdown Preview: Preview in Browser"
+				"remove p",
+				"Package Control: Remove Package"
 			],
 			[
-				"kinsta",
-				"Package Control: Install Package"
-			],
-			[
-				"mark",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"re",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"editp",
-				"Project: Edit Project"
-			],
-			[
-				"inden",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"trimmer",
-				"Trimmer: Trim trailing whitespace."
-			],
-			[
-				"kinstall",
-				"Package Control: Install Package"
-			],
-			[
-				"projec",
+				"project",
 				"Project: Edit"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"teminalit",
+				"Preferences: Terminality Settings – Default"
+			],
+			[
+				"termin",
+				"Preferences: Terminality Key Bindings – Default"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
 			],
 			[
 				"remo pa",
@@ -207,14 +291,6 @@
 			[
 				"insta",
 				"Package Control: Install Package"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"edit pro",
-				"Project: Edit Project"
 			],
 			[
 				"toggle ena",
@@ -252,6 +328,9 @@
 		"height": 153.0,
 		"history":
 		[
+			"@dk",
+			":",
+			":!"
 		]
 	},
 	"distraction_free":
@@ -263,125 +342,12 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/rawad/projects/flask-microservices-users"
+	],
 	"file_history":
 	[
-		"/home/rawad/projects/flask-microservices-users/react_part_1.sublime-workspace",
-		"/home/rawad/projects/flask-microservices-users/react_part_1.sublime-project",
-		"/home/rawad/projects/flask-microservices-users/project/config.py",
-		"/home/rawad/projects/flask-microservices-users/react.sublime-project",
-		"/home/rawad/Personal/files/pass.txt",
-		"/home/rawad/projects/flask-microservices-users/project/tests/test_config.py",
-		"/home/rawad/projects/flask-microservices-users/env/lib64/python3.6/site-packages/flask/sessions.py",
-		"/home/rawad/projects/flask-microservices-users/env/lib/python3.6/site-packages/itsdangerous.py",
-		"/home/rawad/projects/flask-microservices-users/requirements.txt",
-		"/home/rawad/projects/flask-microservices-users/project/__init__.py",
-		"/home/rawad/projects/flask-microservices-users/project/db/create.sql",
-		"/home/rawad/projects/flask-microservices-users/project/tests/base.py",
-		"/home/rawad/projects/flask-microservices-users/docker-compose.yml",
-		"/home/rawad/projects/flask-microservices-users/nginx/Dockerfile",
-		"/home/rawad/projects/flask-microservices-users/nginx/flask.conf",
-		"/home/rawad/projects/flask-microservices-users/Dockerfile",
-		"/home/rawad/projects/flask-microservices-users/notes.md",
-		"/home/rawad/Personal/Notes/pg_notes.sql",
-		"/home/rawad/projects/flask-microservices-users/project/api/templates/index.html",
-		"/home/rawad/projects/flask-microservices-users/env/lib/python3.6/site-packages/click/__init__.py",
-		"/home/rawad/projects/flask-microservices-users/env/lib/python3.6/site-packages/click/globals.py",
-		"/usr/lib/python2.7/_threading_local.py",
-		"/home/rawad/projects/flask-microservices-users/project/api/models.py",
-		"/home/rawad/projects/flask-microservices-users/project/api/__init__.py",
-		"/home/rawad/.config/sublime-text-3/Packages/Typewriter/Typewriter.sublime-settings",
-		"/home/rawad/.config/sublime-text-3/Packages/User/MarkdownPreview.sublime-settings",
-		"/home/rawad/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
-		"/home/rawad/.config/sublime-text-3/Packages/Typewriter/Markdown (Typewriter).sublime-settings",
-		"/home/rawad/Personal/Notes/TOKNOW.txt",
-		"/home/rawad/projects/flask-microservices-users/notes.txt",
-		"/home/rawad/projects/flask-microservices-users/TOKNOW.txt",
-		"/home/rawad/projects/flask-microservices-users/tests/test_config.py",
-		"/home/rawad/projects/flask-microservices-users/env/lib/python3.6/site-packages/jsonschema/tests/test_exceptions.py",
-		"/home/rawad/projects/flask-microservices-users/api/views.py",
-		"/home/rawad/projects/flask-microservices-users/tests/test__user.py",
-		"/home/rawad/projects/flask-microservices-users/api/models.py",
-		"/home/rawad/projects/flask-microservices-users/api/__init__.py",
-		"/home/rawad/projects/flask-microservices-users/restart_users-service.sh",
-		"/home/rawad/scripts/install_docker.sh",
-		"/home/rawad/scripts/install_docker_02.sh",
-		"/usr/lib/python2.7/unittest/__init__.py",
-		"/home/rawad/projects/flask-microservices-users/project/db/Dockerfile",
-		"/home/rawad/projects/flask-microservices-users/manage.py",
-		"/home/rawad/projects/flask-microservices-users/tests/base.py",
-		"/home/rawad/projects/flask-microservices-users/test/base.py",
-		"/home/rawad/Desktop/pass.txt",
-		"/home/rawad/projects/flask-microservices-users/db/Dockerfile",
-		"/home/rawad/projects/flask-microservices-users/db/create.sql",
-		"/home/rawad/projects/flask-microservices-users/test_docker.sh",
-		"/home/rawad/projects/flask-microservices-users/docker_commands.md",
-		"/home/rawad/projects/flask-microservices-users/.gitignore",
-		"/home/rawad/projects/flask-microservices-users/docker_versions.sh",
-		"/home/rawad/all.txt",
-		"/home/rawad/projects/flask-microservices-users/env/lib/python3.6/site-packages/flask_script/__init__.py",
-		"/home/rawad/projects/flask-microservices-users/initialize_project.sh",
-		"/home/rawad/projects/flask-microservices-users/run_env.sh",
-		"/home/rawad/projects/flask-microservices-users/__pycache__",
-		"/home/rawad/projects/flask-microservices-users/project/manage.py",
-		"/home/rawad/scripts/projects/create_react_test.sh",
-		"/home/rawad/projects/mysite/polls/templates/polls/detail.html",
-		"/home/rawad/projects/mysite/polls/templates/polls/your_name.html",
-		"/home/rawad/projects/django_test.sublime-project",
-		"/home/rawad/projects/mysite/polls/forms.py",
-		"/home/rawad/projects/mysite/polls/views.py",
-		"/home/rawad/projects/mysite/polls/urls.py",
-		"/home/rawad/projects/mysite/polls/static/polls/style.css",
-		"/home/rawad/projects/create_project.sh",
-		"/home/rawad/projects/env/lib/python3.5/site-packages/django/shortcuts.py",
-		"/home/rawad/projects/mysite/polls/templates/polls/index.html",
-		"/home/rawad/projects/mysite/polls/templates/polls/question_detail.html",
-		"/home/rawad/projects/mysite/polls/templates/polls/thanks.html",
-		"/home/rawad/projects/mysite/polls/templates/polls/results.html",
-		"/home/rawad/projects/mysite/mysite/urls.py",
-		"/home/rawad/projects/mysite/polls/templates/polls/name.html",
-		"/home/rawad/projects/mysite/mysite/settings.py",
-		"/home/rawad/projects/mysite/polls/tests.py",
-		"/home/rawad/projects/mysite/templates/admin/index.html",
-		"/home/rawad/projects/mysite/polls/models.py",
-		"/home/rawad/projects/mysite/polls/admin.py",
-		"/home/rawad/projects/mysite/polls/templates/polls/admin/base_site.html",
-		"/home/rawad/projects/env/lib/python3.5/site-packages/django/contrib/admin/templates/admin/base_site.html",
-		"/home/rawad/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
-		"/home/rawad/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
-		"/home/rawad/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-		"/home/rawad/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
-		"/home/rawad/projects/mysite/polls/templates/polls/detail",
-		"/home/rawad/projects/mysite/polls/drafts/models.py",
-		"/home/rawad/projects/env/lib/python3.5/site-packages/django/http/response.py",
-		"/home/rawad/projects/commands.txt",
-		"/home/rawad/projects/helloworld/env/lib/python3.5/_bootlocale.py",
-		"/home/rawad/projects/recruitment/Vagrantfile",
-		"/home/rawad/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-		"/home/rawad/.config/sublime-text-3/Packages/BracketGuard/Default (Linux).sublime-keymap",
-		"/home/rawad/.config/sublime-text-3/Packages/BracketHighlighter/Example.sublime-keymap",
-		"/home/rawad/projects/django_test/test_01/pencil/views.py",
-		"/home/rawad/projects/django_test/test_01/test_01/__init__.py",
-		"/home/rawad/projects/django_test/test_01/pencil/models.py",
-		"/home/rawad/projects/django_test/test_01/pencil/urls.py",
-		"/home/rawad/projects/django_test/test_01/pencil/admin.py",
-		"/home/rawad/projects/django_test/test_01/test_01/urls.py",
-		"/home/rawad/projects/django_test/test_01/test_01/settings.py",
-		"/home/rawad/projects/django_test/test_01/manage.py",
-		"/usr/share/applications/sublime_text.desktop",
-		"/home/rawad/.local/share/applications/sublime_text.desktop",
-		"/home/rawad/.local/share/applications/_sublime_text.desktop",
-		"/home/rawad/projects/django_test/test_01/pencil/apps.py",
-		"/home/rawad/projects/django_test/test_01/pencil/tests.py",
-		"/home/rawad/projects/django_test/env/lib/python3.5/site-packages/django/contrib/admin/__init__.py",
-		"/home/rawad/projects/django_test/test_01/pencil/__init__.py",
-		"/home/rawad/projects/test_01/requirements.txt",
-		"/home/rawad/projects/django_test/classes.py",
-		"/home/rawad/projects/django_test/test_django/test_django/settings.py",
-		"/home/rawad/projects/django_test/test_django/test_django/urls.py",
-		"/home/rawad/projects/django_test/test_django/test_django/wsgi.py",
-		"/home/rawad/projects/django_test/test_django/manage.py",
-		"/home/rawad/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
-		"/home/rawad/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings"
 	],
 	"find":
 	{
@@ -392,9 +358,6 @@
 		"height": 102.0,
 		"where_history":
 		[
-			"/home/rawad/projects/flask-microservices-users/project",
-			"/home/rawad/projects/flask-microservices-users",
-			"/home/rawad/projects/flask-microservices-users/project",
 			""
 		]
 	},
@@ -403,114 +366,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"useruser",
-			"'post'",
-			"post",
-			"michael",
-			".format",
-			"test_sin",
-			"add_user()",
-			"add_user",
-			"test_add_user",
-			".forma",
-			".form",
-			"test_add_user_duplicate_user",
-			"self.client.get(",
-			"test_add_user_duplicate_user",
-			"baseconfig:",
-			"baseconfig",
-			"secret_key = ",
-			"/home/rawad/projects/flask-microservices-users/env/",
-			"sk-micr",
-			"secret_key",
-			"test_config",
-			"test_add",
-			"r'",
-			"f'",
-			"r'",
-			"test_sin",
-			"\"",
-			"test_sing",
-			"single",
-			"exc",
-			"except",
-			"exc",
-			"add_user",
-			"test_add",
-			"index",
-			"main",
-			"add_user",
-			"test_sin",
-			"respon",
-			"*",
-			"-f",
-			"**\n",
-			"**",
-			"|",
-			"class",
-			"none",
-			":  ",
-			":",
-			"none",
-			"c",
-			"$ ",
-			"${PWD}",
-			"bin/sh",
-			"dir",
-			"dev",
-			"**",
-			"#",
-			"$ ",
-			"compose",
-			"$ ",
-			"&&",
-			"$ ",
-			"cd",
-			"recruitment",
-			"testing",
-			"ls",
-			"recruitment",
-			"ls",
-			"s",
-			"$",
-			"desktop",
-			"desktop:",
-			"username",
-			"b>",
-			"selected",
-			"#",
-			">>>",
-			"#",
+			"djan",
+			"python",
+			"UpdateView",
+			"login_required",
+			"sm",
+			"col-",
+			"col-md",
+			"strong",
+			"<div class=\"col-md\"></div>",
+			"class=\"col-md\"",
+			"<div class=\"col-md\"",
+			"><",
+			"request",
+			"Create",
+			"sm",
+			"class=\"col\"",
+			"ctrl+alt",
+			"<div class=\"col\">",
+			"\">",
+			"</div>",
+			"applicant.",
+			"</div>",
+			"{{",
+			"col-3",
+			"col",
+			"</div>\n\t\n\t<div",
+			"div",
+			"applicant_group",
+			"disabled",
+			"        <",
+			"LOGIN_REDIRECT_URL",
+			"admin_group",
+			" \n",
+			"admin_user",
+			"admin",
+			"group",
+			"Group",
+			"group",
+			"app_label",
+			"super_user_name",
+			"'admin'",
+			"admin",
+			"User",
+			"()\n",
+			"u",
+			"models",
+			"form",
+			"input",
+			"label",
+			"<input",
+			"label",
+			"user",
+			"<lable",
+			"<div cl",
+			"extends",
+			"Searching",
+			"models",
+			"name",
+			"Detail",
+			"session",
+			"get",
+			"all",
+			"reverse",
+			"render",
+			"auth",
+			"HttpResponseRedirect",
+			"Login",
+			"namespace",
+			"views",
+			"login",
+			"url",
 			"django",
-			"Nation",
-			",",
-			"\n<",
-			"url",
-			"polls",
-			"ex",
-			"url",
-			"li",
-			"h1",
-			"tex",
+			"world",
+			"/admin/core/",
+			"core",
+			"errors",
+			"field",
+			"return",
+			"body",
+			"dd",
+			"offset",
+			"<div class=\"col-sm-offset-2 col-sm-7\">",
+			"form-group row",
+			"html",
+			"DOCTYPE",
+			"see",
+			"See",
+			"see",
+			"widget",
+			"print",
+			"class_",
+			"templa",
+			"col-sm-1",
 			"class",
-			"def",
-			"sqlite",
-			"-r",
-			"3.",
-			"virt",
-			"super",
-			"up",
-			"polls",
-			"urls",
-			"poll",
-			"decimal",
-			"CharField",
-			"owner",
-			"here",
-			"\n\t",
-			"system",
-			"import",
-			"pep"
+			"',",
+			"control",
+			"col-sm-7",
+			"col-sm-2 col",
+			"col-sm-offset-2",
+			"form-group",
+			"br",
+			"&nbsp",
+			"10",
+			"<span>&",
+			"<div class=\"form-group",
+			"class",
+			"<label",
+			"label",
+			"<!-- <div class=\"col-sm-10\"> -->",
+			"horizontal",
+			"<div class=\"col-sm-10\">",
+			"class",
+			"<div class=\"col-sm-10\">",
+			"class=\"col-sm-2 control-label\"",
+			"has-error",
+			"<div class=\"form-group has-error\">",
+			"class=\"col-sm-2 control",
+			"form",
+			"django",
+			"success",
+			"views.",
+			"docs",
+			"django",
+			"./",
+			"djo9ei,soB689_0=u<0(U)S(",
+			"''",
+			"Question",
+			"form-group"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -529,604 +512,11 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "project/tests/base.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 380,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "project/api/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3420,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1203,
-								1203
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1202,
-										1203
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										1194,
-										1195
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint).tmTheme",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 726.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "project/tests/test__user.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								581,
-								581
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										664,
-										665
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										559,
-										560
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint).tmTheme",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "notes.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								369,
-								369
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint).tmTheme",
-							"parser": "markdown",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "project/api/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 548,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								548,
-								548
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint).tmTheme",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "manage.py",
 					"semi_transient": false,
 					"settings":
@@ -1144,21 +534,6 @@
 						],
 						"settings":
 						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1177,11 +552,11 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1192,46 +567,46 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint).tmTheme",
 							"syntax": "Packages/Python/Python.sublime-syntax",
@@ -1250,7 +625,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -1283,15 +658,11 @@
 	{
 		"height": 0.0
 	},
-	"output.markdown":
-	{
-		"height": 142.0
-	},
 	"pinned_build_system": "",
-	"project": "react_part_1.sublime-project",
+	"project": "react.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1301,196 +672,148 @@
 		"selected_items":
 		[
 			[
-				"notes",
-				"flask-microservices-users/notes.md"
+				"pyth",
+				"rez-policies-it.wiki/Python.md"
 			],
 			[
-				"views",
-				"flask-microservices-users/project/api/views.py"
+				"uni",
+				"rez-policies-it.wiki/Unikernels.md"
 			],
 			[
-				"test",
-				"flask-microservices-users/project/tests/test__user.py"
+				"datasi",
+				"rez-policies-it.wiki/Data-Science.md"
 			],
 			[
-				"view",
-				"flask-microservices-users/project/api/views.py"
+				"mach",
+				"rez-policies-it.wiki/Machine-Learning.md"
 			],
 			[
-				"base",
-				"flask-microservices-users/project/tests/base.py"
+				"viri",
+				"rez-policies-it.wiki/Virtual-Machines.md"
 			],
 			[
-				"testconf",
-				"flask-microservices-users/project/tests/test_config.py"
+				"djan",
+				"rez-policies-it.wiki/Django.md"
 			],
 			[
-				"model",
-				"flask-microservices-users/project/api/models.py"
+				"post",
+				"rez-policies-it.wiki/Postgres.md"
 			],
 			[
-				"manage",
-				"flask-microservices-users/manage.py"
+				"sql",
+				"rez-policies-it.wiki/Sql.md"
 			],
 			[
-				"__init",
-				"flask-microservices-users/project/__init__.py"
+				"side",
+				"rez-policies-it.wiki/_Sidebar.md"
 			],
 			[
-				"mod",
-				"flask-microservices-users/project/api/models.py"
+				"te",
+				"rez-policies-it.wiki/Testing.md"
 			],
 			[
-				"init.py",
-				"flask-microservices-users/project/__init__.py"
+				"edit",
+				"rez-policies-it.wiki/Editors.md"
+			],
+			[
+				"plat",
+				"rez-policies-it.wiki/Platforms.md"
+			],
+			[
+				"githu",
+				"rez-policies-it.wiki/Github.md"
+			],
+			[
+				"proje",
+				"rez-policies-it.wiki/Projects.md"
+			],
+			[
+				"sla",
+				"rez-policies-it.wiki/Slack.md"
+			],
+			[
+				"email",
+				"rez-policies-it.wiki/Email.md"
+			],
+			[
+				"wel",
+				"rez-policies-it.wiki/Welcome.md"
 			],
 			[
 				"",
-				"flask-microservices-users/project/api/views.py"
+				"rez-policies-it.wiki/Django.md"
 			],
 			[
-				"test_user",
-				"flask-microservices-users/project/tests/test__user.py"
+				"view",
+				"mysite/polls/views.py"
+			],
+			[
+				"setting",
+				"recruitment/recruitment/settings.py"
 			],
 			[
 				"init",
-				"flask-microservices-users/project/__init__.py"
+				"core/management/commands/init_db.py"
 			],
 			[
-				"mana",
-				"flask-microservices-users/manage.py"
+				"ini",
+				"core/management/commands/init_db.py"
 			],
 			[
-				"create",
-				"flask-microservices-users/project/db/create.sql"
+				"update",
+				"recruitment/templates/core/applicant_update.html"
 			],
 			[
-				"projini",
-				"flask-microservices-users/project/__init__.py"
+				"urls",
+				"core/urls.py"
 			],
 			[
-				"conf",
-				"flask-microservices-users/project/config.py"
+				"model",
+				"core/models.py"
 			],
 			[
-				"test_confi",
-				"flask-microservices-users/project/tests/test_config.py"
+				"forms",
+				"core/forms.py"
 			],
 			[
-				"__init__",
-				"flask-microservices-users/env/lib/python3.6/site-packages/click/__init__.py"
+				"appli",
+				"recruitment/templates/core/applicant_detail.html"
 			],
 			[
-				"con",
-				"flask-microservices-users/project/config.py"
+				"commands",
+				"recruitment/recruitment/core/management/commands/init_db.py"
 			],
 			[
-				"moel",
-				"flask-microservices-users/project/api/models.py"
+				"bas",
+				"recruitment/templates/base.html"
 			],
 			[
-				"m",
-				"flask-microservices-users/project/api/models.py"
+				"url",
+				"core/urls.py"
 			],
 			[
-				"test__u",
-				"flask-microservices-users/project/tests/test__user.py"
+				"login",
+				"recruitment/templates/registration/login.html"
 			],
 			[
-				"mode",
-				"flask-microservices-users/project/api/models.py"
+				"lo",
+				"recruitment/templates/core/login.html"
 			],
 			[
-				"testcon",
-				"flask-microservices-users/project/tests/test_config.py"
+				".html",
+				"recruitment/templates/base.html"
 			],
 			[
-				"compo",
-				"flask-microservices-users/docker-compose.yml"
+				"base",
+				"recruitment/templates/base.html"
 			],
 			[
-				"compose",
-				"flask-microservices-users/docker-compose.yml"
+				"mod",
+				"core/models.py"
 			],
 			[
-				"compos",
-				"flask-microservices-users/docker-compose.yml"
-			],
-			[
-				"docker",
-				"flask-microservices-users/docker-compose.yml"
-			],
-			[
-				"requi",
-				"flask-microservices-users/requirements.txt"
-			],
-			[
-				"note",
-				"flask-microservices-users/notes.md"
-			],
-			[
-				"to",
-				"Notes/TOKNOW.txt"
-			],
-			[
-				"toko",
-				"Notes/TOKNOW.txt"
-			],
-			[
-				"man",
-				"manage.py"
-			],
-			[
-				"test_con",
-				"project/tests/test_config.py"
-			],
-			[
-				"confi",
-				"project/config.py"
-			],
-			[
-				"install",
-				"~/scripts/install_docker.sh"
-			],
-			[
-				"doc",
-				"Dockerfile"
-			],
-			[
-				"yml",
-				"docker-compose.yml"
-			],
-			[
-				"dockerfile",
-				"project/db/Dockerfile"
-			],
-			[
-				"do",
-				"Dockerfile"
-			],
-			[
-				"rese",
-				"restart_users-service.sh"
-			],
-			[
-				"rest",
-				"restart_users-service.sh"
-			],
-			[
-				"res",
-				"restart_users-service.sh"
-			],
-			[
-				"dockerfil",
-				"Dockerfile"
-			],
-			[
-				"init__",
-				"project/__init__.py"
-			],
-			[
-				"doce",
-				"Dockerfile"
+				"ur",
+				"recruitment/urls.py"
 			]
 		],
 		"width": 0.0
@@ -1503,7 +826,7 @@
 		[
 			[
 				"",
-				"~/projects/recruitment_project/recruitment.sublime-project"
+				"~/projects/flask-microservices-users/react.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1522,7 +845,7 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": true,
+	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 201.0,
