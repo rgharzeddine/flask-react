@@ -23,3 +23,13 @@ docker had problems mounting volume
 * change posted data useruser to username
 
 ------------------------------------------------------
+
+**Problem**
+
+nginx container build path not found by docker
+
+**Solution**
+
+changed nginx build to build : ./flask-microservices-main/nginx
+
+------------------------------------------------------

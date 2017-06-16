@@ -13,5 +13,16 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings":
+	{
+		"auto_python_builder_enabled": false,
+		"extra_paths":
+			[
+			],
+		"python_interpreter": "./env/bin/python3",
+		// "python_interpreter": "/usr/bin/python3",
+		// "python_interpreter": "/usr/bin/python"
+	}
+
 }
