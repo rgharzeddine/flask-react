@@ -33,3 +33,13 @@ nginx container build path not found by docker
 changed nginx build to build : ./flask-microservices-main/nginx
 
 ------------------------------------------------------
+
+**Problem**
+
+could not run manage.py or others on local machine (not in docker)
+
+**Solution**
+
+
+
+------------------------------------------------------
