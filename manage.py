@@ -47,12 +47,6 @@ def seed_db():
 
 
 @manager.command
-def reset_db():
-    recreate_db()
-    seed_db()
-
-
-@manager.command
 def cov():
     """Runs the unit tests with coverage."""
     tests = unittest.TestLoader().discover('project/tests')

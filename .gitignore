@@ -3,3 +3,10 @@ env
 docke
 docker_commands.html
 notes.html
+Questions.html
+restart_users-service.sh
+run_env.sh
+initialize_project.sh
+test_docker.sh
+docker_versions.sh
+restart_users-service.sh
